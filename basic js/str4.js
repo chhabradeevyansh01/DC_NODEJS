@@ -24,7 +24,9 @@ const newArrmap = numbers1.map(function(num,idx,arr){ // giving other 2 argument
     return num * 10 // num is nothig but iterator variable
 
 })
-console.log(numbers1); // no change
+console.log(numbers1); // no change 
+
+con
 console.log(newArrmap);
 
 // coverting uppercase to lower using map

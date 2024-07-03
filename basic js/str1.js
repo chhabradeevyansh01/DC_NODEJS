@@ -6,7 +6,7 @@
 
 const greeting = 'hello, world'
 const extracPor = greeting.slice(0,5) // indexing is 0 based  // and end index would be +1 we want to extract if we want hello < it actually lies bw 0 to 4 > but we hv to 0 to 5
-console.log(extracPor) 
+console.log(extracPor)                 
 
 const extracPor1 = greeting.slice(0,90) // will give hello world
 console.log(extracPor1)
